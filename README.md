@@ -2,7 +2,7 @@
 >- Taiwanese 19y
 >- study for **EE** in **NTUST**
 # Experience
->- Learned: C, Python, Java, HTML, Arduino
+>- Learned: C, Python, Java, HTML, JS, CSS, Arduino
 # Interst
 >- Develop some ideas that suddenly pop out in my head into progra
 
